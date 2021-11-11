@@ -1,0 +1,7 @@
+List all attributions here, this include "self-attributions":
+GrSimpleSwing,GrColoredRoundabout,GrCarousel - From WB8 Simple Park objects - created by me
+Shader for hot air ballon from WB11 - created by me
+Buildings, Trees - Adapted from WB9 - created by me
+OBJ objects - Seahorse, MagicTower, Empire State Building, 150 Water Ave - www.turbosquid.com
+skybox image - www.opengameart.com
+Images used for groundplane, images used as textures on buildings and cars - Google images

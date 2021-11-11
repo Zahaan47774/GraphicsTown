@@ -1,0 +1,21 @@
+Two kinds of objects created for this assignment:
+1. Hot Air Balloon-1 - created for this assignment with basic geometry
+2. Entertainment-0 - a model of theatre created for this assignment with basic geometry
+
+Five other kinds of objects that you created:
+3. Car
+4. Truck
+5. Carousel-0
+6. Road-0
+7. Cottage-23
+
+At least on of each type of object:
+Building/structure: Cottage-5 - a textured house made of basic geometry from WB9
+Vehicle: Truck - a textured truck made of basic geometry from WB9
+Natural Element: Tree-1 - a tree made of basic geometry from WB9
+
+Object loaded from a model file:
+Model: SkyScraper-0 - A model of a skyscraper loaded from an obj file
+
+An object with a shader that you wrote:
+ShaderObj: HotAirBalloon using a texture I made in WB 11

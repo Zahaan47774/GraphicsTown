@@ -1,0 +1,10 @@
+Three different behaviors that you made:
+1. Car - moves around the road in simple behavior
+2. Roundabout-1 - moves in circular fashion taken from WB8
+3. Swing-1 - moves in a repetitive simple motion
+
+One behavior that is not simple:
+Not simple: HotAirBalloon-0 - moves in a complext path rotating and moving upwards then eventually falling
+
+Animated Articulated Figure:
+Articulated: Carousel-0 - moves in a bouncing fashion  relative to object as a whole taken from WB8

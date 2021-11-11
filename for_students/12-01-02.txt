@@ -1,0 +1,15 @@
+1. What is the difference between a bump map and a normal map?
+
+A bump map uses grayscale values to add an extra dimension of information of up or down as compared to a normal map that just uses X, Y and Z values to find positions in space.
+
+2. What is the difference between a "correct skybox" and simply putting a big cube around the world?
+
+A skyboxz is used to show a large textured box around the GRworld for displaying very distant objects that can not be reached. While a big cube around the world would still project an image that can be reached.
+
+3. Why is a sphere a good object for environment mapping, but a flat square is less good?
+
+A flat square is less good since you will be able to notice the edges while in a sphere you cannot.
+
+4. What are the main choices for how to represent environment map images? Why might you pick one or the other?
+
+Cube mapping is the first way in which we can have six sides of the cube surrounding the world and the camera is placed in the center of it. The other method is sphere mapping that uses a sphere instead of a cube to surround the area.
